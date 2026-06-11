@@ -24,7 +24,7 @@ export const Header: React.FC = () => {
       <div className="main-nav-wrapper">
         <div className="container main-nav">
           <div className="logo-container">
-            <img src="App/public/logo.jpeg" alt="Humara Pandit Logo" className="logo" />
+            <img src="https://media.licdn.com/dms/image/v2/D560BAQGcDPotmw2XdQ/company-logo_200_200/B56Zwx3mVbHIAI-/0/1770363186313/humarapandit_logo?e=2147483647&v=beta&t=JwnnnlDQHY2oyYPaeO5Vh_EFMh0VHW58QpM8_iaoeZg" alt="Humara Pandit Logo" className="logo" />
           </div>
 
           <nav className="nav-links">
