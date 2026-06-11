@@ -16,7 +16,6 @@ export const Header: React.FC = () => {
           <div className="top-bar-text">
             Best Quality Products <ArrowRight size={16} style={{ marginLeft: '4px' }} />
           </div>
-          {/* Empty div to balance flex space-between if needed, or we just position absolute the text */}
           <div className="top-bar-spacer"></div>
         </div>
       </div>
@@ -25,7 +24,7 @@ export const Header: React.FC = () => {
       <div className="main-nav-wrapper">
         <div className="container main-nav">
           <div className="logo-container">
-            <img src="public/logo.jpeg" alt="Humara Pandit Logo" className="logo" />
+            <img src="App/public/logo.jpeg" alt="Humara Pandit Logo" className="logo" />
           </div>
 
           <nav className="nav-links">
